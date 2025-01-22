@@ -1,0 +1,6 @@
+x = 10;
+z = x ** 3;
+y = x * z;
+print(x);
+print(y);
+print(z);
