@@ -1,4 +1,3 @@
-# Saeed Abolhasani Kaleybar (4001830203)
 from math import sin, cos
 class Stack:
     def __init__(self) -> None:
