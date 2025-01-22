@@ -23,7 +23,7 @@ OUTPUT:
   1000
 </pre>
   </dl>
-  <li>Full Compiler</li>
+  <li>Full Compiler(gorabiye)</li>
   <dl>
     It's advanced mode of the calculator compiler.<br>
     the difference is that this one has accepts the <i><b>"Conditional Statments"</b></i>, <br>
